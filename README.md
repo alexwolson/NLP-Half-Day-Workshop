@@ -1,4 +1,5 @@
 # NLP Half-Day Workshop
+# https://tinyurl.com/CARTESCHMIDTNLP
 
 This repo contains the materials for the NLP half-day workshop. Code for the four labs can be found directly here if you will run them locally, or you can follow these links to open them on Google Colab:
 
